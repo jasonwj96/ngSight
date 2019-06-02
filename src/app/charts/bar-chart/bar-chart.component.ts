@@ -8,11 +8,11 @@ const SAMPLE_BARCHART_DATA: any[] = [
   {
     data: [25, 39, 60, 91, 56, 54, 30],
     label: 'Q2 sales'
-  },
+  } /* ,
   {
     data: [70, 19, 44, 53, 78, 20, 17],
     label: 'Q3 sales'
-  }
+  } */
 ];
 
 const SAMPLE_BARCHART_LABELS: string[] = [
